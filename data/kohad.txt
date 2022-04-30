@@ -1,0 +1,5 @@
+1	Kesklinn	0	0
+2	Delta	-240	850
+3	'Pepleri ühikas'	-560	-410
+4	Physicum	-2200	-1340
+5	'Purde ühikas'	570	-1690

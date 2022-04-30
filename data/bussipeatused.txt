@@ -1,0 +1,28 @@
+﻿1	Nooruse	-1800	-1230
+2	Nisu	-2580	-600
+3	Kannikese	-2640	-200
+4	Ilmatsalu	-2210	-290
+5	Lõuna	-1870	-390
+6	Tervishoiu	-1630	-660
+7	Maarjamõisa	-1560	-950
+8	Kaare	-1430	-1310
+9	Pauluse	-740	-790
+10	Kesklinn	-80	-85
+11	Riiamäe	-400	-480
+12	Lembitu	-1030	-975
+13	Puusepa	-1440	-1280
+14	'Viljandi maantee'	-2230	-950
+15	Tehnoloogiainstituut	-1800	-1230
+16	Vene	-190	910
+17	Atlantis	0	345
+18	Linnamuuseum	-70	470
+19	Raua	500	-1560
+20	Kuu	515	-1250
+21	Salemi	360	-1020
+22	'Karlova kool'	270	-700
+23	'Aura veekeskus'	240	-265
+24	Soola	100	-100
+25	Aida	480	-500
+26	Silla	480	-1020
+27	Vaba	415	-1390
+28	Saekoja	415	-1600

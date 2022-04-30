@@ -1,0 +1,6 @@
+﻿1	2	Nooruse	Nõlvaku	10
+2	2	Nõlvaku	Lõunakeskus	10
+3	4	Kummeli	Ringtee	10
+4	4	Ringtee	Kummeli	10
+5	6	Lõunakeskus	'Roheline park'	25
+6	6	'Roheline park'	Lõunakeskus	25

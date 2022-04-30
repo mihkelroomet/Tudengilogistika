@@ -1,0 +1,7 @@
+﻿21	'W. Ostwaldi'	-2110	-1350
+30	'Vanemuise park' -800	-500
+31	'TÜ Raamatukogu'	-410	-100
+43	Uueturu	-165	0
+59	Tarmeko	680	-1520
+65	Delta	-160	730
+66	Riiamäe	-410	-445

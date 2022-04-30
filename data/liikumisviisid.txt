@@ -1,0 +1,3 @@
+1	jala	83
+2	rattaga	367
+3	bussiga	350
