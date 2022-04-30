@@ -1,5 +1,5 @@
-// Leiame kõik järjestikused peatused, mida läbib liin nr 2 suunal Lõunakeskus
+// Leiab kÃµik jÃ¤rjestikused peatused, mida lÃ¤bib liin nr 2 suunal LÃµunakeskus
 SELECT Bussipeatused_Nimi AS Bussipeatus
 FROM Bussipeatused KEY JOIN Bussiliinid_Bussipeatused KEY JOIN Bussiliinid
-WHERE Bussiliinid_Number = 2 AND Bussiliinid_Sihtpeatus = 'Lõunakeskus'
-ORDER BY Bussipeatuse_Järjekorranumber;
+WHERE Bussiliinid_Number = 2 AND Bussiliinid_Sihtpeatus = 'LÃµunakeskus'
+ORDER BY Bussipeatuse_JÃ¤rjekorranumber;
