@@ -1,2 +1,2 @@
 # Tudengilogistika
-Aine Andmebaasid LTAT.03.004 jaoks rühmatööna tehtud andmebaas
+Tartu Ülikooli aine Andmebaasid LTAT.03.004 jaoks 2022 kevad rühmatööna tehtud andmebaas
